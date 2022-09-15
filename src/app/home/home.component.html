@@ -1,0 +1,21 @@
+<header>
+    <div>
+        <span class = "logo1">Nav's</span>
+        <span class = "logo2">Cool Contentful</span>
+        <span class = "logo3">Travel Blog</span>
+    </div>
+</header>
+<main *ngIf="blogPosts$ | async as blogPosts">
+    <!-- <pre>
+        {{ blogPosts | json}}
+    </pre> -->
+
+    <div class="blog-posts-container" *ngFor="let blogPost of blogPosts.items">
+        <img [src]="blogPost.fields.featuredImage.fields.file.url" alt="">
+        <h2>{{ blogPost.fields.title}}</h2>
+        <p class = "author">{{ blogPost.fields.author }}</p>
+        <p class = "summary">{{ blogPost.fields.summary }}</p>
+        <a [routerLink]="['blog',blogPost.sys.id]">Read more</a>
+    </div>
+    
+</main>
