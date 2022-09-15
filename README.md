@@ -1,27 +1,7 @@
-# Blog
+# Navs Contentful Blog https://navscontentfulblog.web.app/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##This project calls the contentful api 
+<img width="1343" alt="Screen Shot 2022-09-14 at 11 23 01 PM" src="https://user-images.githubusercontent.com/40246928/190306524-06152c93-b9b7-414a-a9ad-636c53ceb9b2.png">
+<img width="1319" alt="Screen Shot 2022-09-14 at 11 23 22 PM" src="https://user-images.githubusercontent.com/40246928/190306561-bfa02862-7263-44f4-9d93-8604ca36aa6d.png">
+##Using angular services
+<img width="1372" alt="Screen Shot 2022-09-14 at 11 24 28 PM" src="https://user-images.githubusercontent.com/40246928/190306738-d4c90872-e0bd-485d-9640-cec2cea22c05.png">
