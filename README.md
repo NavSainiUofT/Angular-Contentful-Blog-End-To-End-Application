@@ -1,6 +1,6 @@
-# Navs Contentful Blog https://navscontentfulblog.web.app/
+# Navs Contentful Blog https://navscontentfulblog.web.app/ #
 
-### This project calls the contentful api and is deployed via google firebase (Node packages are missing here you have to install) ###
+## This project calls the contentful api and is deployed via google firebase (Node packages are missing here you have to install) ##
 
 ## This is an end to end application recieving data into a service from the Contentful CMS api and injecting the data into various angular components ##
 <img width="1352" alt="Screen Shot 2022-09-14 at 11 27 31 PM" src="https://user-images.githubusercontent.com/40246928/190307074-df9bee51-e0c2-4239-b1a3-62fc6b5de6ee.png">
