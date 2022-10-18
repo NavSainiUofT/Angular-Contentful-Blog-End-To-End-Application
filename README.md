@@ -1,4 +1,4 @@
-# Navs Contentful Blog https://navscontentfulblog.web.app/ # 
+# Navs Contentful Blog https://navscontentfulblog.web.app/ #  
 
 ### This project calls the contentful api and is deployed via google firebase (Node packages are missing here you have to install! or just use the link above) ###
 
